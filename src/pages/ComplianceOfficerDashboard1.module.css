@@ -1,0 +1,706 @@
+.path500Icon {
+  position: absolute;
+  height: 104.01%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -4.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.filesAndAssets,
+.virtualDataRoom {
+  position: absolute;
+  top: 5.76%;
+  left: 2.22%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.filesAndAssets {
+  top: 11.36%;
+  left: 2.25%;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.24px;
+  color: var(--color-gray-100);
+}
+.groupChild {
+  height: 0.45%;
+  width: 94.8%;
+  top: 19.93%;
+  right: 3.05%;
+  bottom: 79.62%;
+  left: 2.15%;
+  border-top: 1px solid var(--color-gainsboro);
+}
+.groupChild,
+.groupItem,
+.serachOnCardChild {
+  position: absolute;
+  box-sizing: border-box;
+}
+.groupItem {
+  height: 0.45%;
+  width: 95.2%;
+  top: 94.45%;
+  right: 2.97%;
+  bottom: 5.11%;
+  left: 1.83%;
+  border-top: 1px solid var(--color-gainsboro);
+}
+.serachOnCardChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 72px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  height: calc(100% - 8px);
+  top: 4px;
+  bottom: 4px;
+  left: 8px;
+  max-height: 100%;
+  width: 24px;
+}
+.serachOnCard {
+  position: absolute;
+  top: calc(50% - 115.5px);
+  right: 135px;
+  width: 220px;
+  height: 32px;
+  color: var(--color-silver);
+}
+.filters {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 12px;
+  line-height: 20px;
+}
+.filterListFill0Wght400GradIcon,
+.filterbutton {
+  position: absolute;
+  top: calc(50% - 5.29px);
+  right: 9.56px;
+  width: 15.88px;
+  height: 10.58px;
+}
+.filterbutton {
+  top: calc(50% - 115.5px);
+  right: 41.01px;
+  width: 84.63px;
+  height: 32px;
+  color: var(--color-silver);
+}
+.moreVertButtonLp {
+  position: absolute;
+  top: 21px;
+  right: 23.87px;
+  width: 4.8px;
+  height: 32px;
+}
+.colorIcon {
+  position: absolute;
+  top: 123.29px;
+  left: calc(50% - 654.75px);
+  width: 18px;
+  height: 18px;
+}
+.groupInner {
+  position: absolute;
+  top: calc(50% - 95.71px);
+  right: 1316.74px;
+  width: 12px;
+  height: 7px;
+}
+.groupChild1,
+.lineDiv {
+  position: absolute;
+  height: 1.78%;
+  width: 100.08%;
+  top: -0.89%;
+  right: 0;
+  bottom: 99.11%;
+  left: -0.08%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.groupChild1 {
+  top: 99.11%;
+  bottom: -0.89%;
+}
+.ndaForNexus,
+.nonDisclosureAgreement {
+  position: absolute;
+  top: calc(50% - 39.71px);
+  left: 114.49px;
+}
+.ndaForNexus {
+  top: calc(50% + 2.71px);
+  left: 149.16px;
+}
+.descriptionFill0Wght400GradIcon {
+  position: absolute;
+  height: calc(100% - 88.58px);
+  top: 57px;
+  bottom: 31.58px;
+  left: 116.48px;
+  max-height: 100%;
+  width: 19.2px;
+}
+.iconMaterialInfoOutline {
+  position: absolute;
+  top: calc(50% + 5.21px);
+  left: calc(50% - 240.5px);
+  width: 16px;
+  height: 16px;
+}
+.lineParent {
+  position: absolute;
+  height: calc(100% - 486px);
+  width: calc(100% - 1.61px);
+  top: 0;
+  right: 1.61px;
+  bottom: 486px;
+  left: 0;
+}
+.iconMaterialFolderOpen {
+  position: absolute;
+  top: calc(50% - 295.5px);
+  left: 54.38px;
+  width: 46px;
+  height: 46px;
+}
+.colorIcon1,
+.colorIcon2 {
+  position: absolute;
+  top: 17.79px;
+  left: calc(50% - 647.56px);
+  width: 18px;
+  height: 18px;
+}
+.colorIcon2 {
+  top: 60.79px;
+  left: calc(50% - 596.3px);
+}
+.groupChild2,
+.iconMaterialFolderOpen1 {
+  position: absolute;
+  top: 0;
+  left: 62.38px;
+  width: 30px;
+  height: 24px;
+}
+.groupChild2 {
+  height: 5.41%;
+  width: 100.08%;
+  top: 97.3%;
+  right: 0;
+  bottom: -2.7%;
+  left: -0.08%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.lineGroup,
+.pitchDocuments {
+  position: absolute;
+  top: 0;
+  left: 114.49px;
+}
+.lineGroup {
+  height: calc(100% - 1.79px);
+  width: 100%;
+  top: 1.79px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.colorIcon3 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 646.75px);
+  width: 18px;
+  height: 18px;
+}
+.iconMaterialFolderOpenGroup,
+.iconMaterialFolderOpenParent {
+  position: absolute;
+  width: calc(100% - 1.61px);
+  right: 1.61px;
+  bottom: 432px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenGroup {
+  bottom: 378px;
+}
+.colorIcon5 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 647.56px);
+  width: 18px;
+  height: 18px;
+}
+.iconMaterialFolderOpenContainer {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 324px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent1,
+.iconMaterialFolderOpenParent2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 270px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent2 {
+  bottom: 216px;
+}
+.iconMaterialFolderOpenParent3,
+.iconMaterialFolderOpenParent4 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 162px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent4 {
+  bottom: 108px;
+}
+.iconMaterialFolderOpenParent5,
+.iconMaterialFolderOpenParent6 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 54px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent6 {
+  bottom: 0;
+}
+.folderExpand2 {
+  position: absolute;
+  height: calc(100% + 326px);
+  width: 100%;
+  top: 0.5px;
+  right: 0;
+  bottom: -326.5px;
+  left: 0;
+}
+.scrollGroup17 {
+  position: absolute;
+  bottom: 21.42px;
+  left: calc(50% - 671.87px);
+  width: 1329.36px;
+  height: 272.58px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+}
+.path500Parent {
+  position: absolute;
+  top: 1231px;
+  left: 142px;
+  width: 1397px;
+  height: 449px;
+  font-size: var(--font-size-sm);
+}
+.path502Icon {
+  position: absolute;
+  height: 104.59%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -4.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notesAndComments {
+  position: absolute;
+  top: 0;
+  left: 0.01%;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.notesAndCommentsWrapper {
+  position: absolute;
+  height: calc(100% - 70.49px);
+  width: calc(100% - 65px);
+  top: 24.85px;
+  right: 34px;
+  bottom: 45.64px;
+  left: 31px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.path502Parent {
+  position: absolute;
+  bottom: 285.62px;
+  left: 142px;
+  width: 1396px;
+  height: 392.23px;
+}
+.welcomeBackVenture {
+  position: absolute;
+  top: 96px;
+  left: 142px;
+  color: var(--color-royalblue);
+}
+.complianceOfficerDashboard1 {
+  position: absolute;
+  top: 113px;
+  left: 142px;
+  font-size: var(--font-size-17xl);
+  line-height: 48px;
+}
+.backArrowButton {
+  position: absolute;
+  top: 103px;
+  left: 106px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  cursor: pointer;
+}
+.newInvestorKycaml {
+  position: absolute;
+  top: 199px;
+  left: 142px;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.complianceOfficerDashboardChild {
+  position: absolute;
+  top: 1143px;
+  left: 241px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-200);
+  border: 1px solid #707070;
+  box-sizing: border-box;
+  width: 740px;
+  height: 300px;
+}
+.closeFill0Wght300Grad0OpszIcon {
+  position: absolute;
+  top: 1160px;
+  left: 258px;
+  width: 16px;
+  height: 16px;
+}
+.loremIpsumDolor,
+.whatIsAn {
+  position: absolute;
+  top: 1189px;
+  left: 298px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 628px;
+}
+.loremIpsumDolor {
+  top: 1242px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  height: 145px;
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.storefrontFill0Wght400Grad0Icon {
+  position: absolute;
+  top: 20px;
+  right: 28.83px;
+  width: 22.33px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.leftNavButtonInner {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.rectangleDiv {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.homeFill1Wght400Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10.19px);
+  left: calc(50% - 9.05px);
+  width: 18.16px;
+  height: 20px;
+}
+.leftNavButtonChild3 {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 6px;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavClosedWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.component2095 {
+  position: absolute;
+  top: 848px;
+  right: 4px;
+  width: 74px;
+  height: 74px;
+}
+.complianceOfficerDashboard {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2378px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

@@ -1,0 +1,302 @@
+.path500Icon {
+  position: absolute;
+  height: 104.01%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -4.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.filesAndAssets,
+.virtualDataRoom {
+  position: absolute;
+  top: 5.76%;
+  left: 2.22%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.filesAndAssets {
+  top: 11.36%;
+  left: 2.25%;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.24px;
+  color: var(--color-gray-100);
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  height: 3.73%;
+  width: 100.08%;
+  top: -1.87%;
+  right: 0;
+  bottom: 98.13%;
+  left: -0.08%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.groupItem {
+  top: 98.13%;
+  bottom: -1.87%;
+}
+.nonDisclosureAgreement {
+  position: absolute;
+  top: calc(50% - 10.21px);
+  left: 114.49px;
+}
+.lineParent {
+  position: absolute;
+  height: calc(100% - 486px);
+  width: calc(100% - 1.61px);
+  top: 0;
+  right: 1.61px;
+  bottom: 486px;
+  left: 0;
+}
+.iconMaterialFolderOpen {
+  position: absolute;
+  top: calc(50% - 255px);
+  left: 62.38px;
+  width: 30px;
+  height: 24px;
+}
+.colorIcon {
+  position: absolute;
+  top: 17.79px;
+  left: calc(50% - 647.56px);
+  width: 18px;
+  height: 18px;
+}
+.groupInner,
+.iconMaterialFolderOpen1 {
+  position: absolute;
+  top: 0;
+  left: 62.38px;
+  width: 30px;
+  height: 24px;
+}
+.groupInner {
+  height: 5.41%;
+  width: 100.08%;
+  top: 97.3%;
+  right: 0;
+  bottom: -2.7%;
+  left: -0.08%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.lineGroup,
+.pitchDocuments {
+  position: absolute;
+  top: 0;
+  left: 114.49px;
+}
+.lineGroup {
+  height: calc(100% - 1.79px);
+  width: 100%;
+  top: 1.79px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.colorIcon1 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 646.75px);
+  width: 18px;
+  height: 18px;
+}
+.iconMaterialFolderOpenGroup,
+.iconMaterialFolderOpenParent {
+  position: absolute;
+  width: calc(100% - 1.61px);
+  right: 1.61px;
+  bottom: 432px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenGroup {
+  bottom: 378px;
+}
+.colorIcon3 {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 647.56px);
+  width: 18px;
+  height: 18px;
+}
+.iconMaterialFolderOpenContainer {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 324px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent1,
+.iconMaterialFolderOpenParent2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 270px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent2 {
+  bottom: 216px;
+}
+.iconMaterialFolderOpenParent3,
+.iconMaterialFolderOpenParent4 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 162px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent4 {
+  bottom: 108px;
+}
+.iconMaterialFolderOpenParent5,
+.iconMaterialFolderOpenParent6 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 54px;
+  left: 0;
+  height: 38.79px;
+}
+.iconMaterialFolderOpenParent6 {
+  bottom: 0;
+}
+.folderExpand2 {
+  position: absolute;
+  height: calc(100% + 267px);
+  width: 100%;
+  top: 0.5px;
+  right: 0;
+  bottom: -267.5px;
+  left: 0;
+}
+.scrollGroup17 {
+  position: absolute;
+  bottom: 21.42px;
+  left: calc(50% - 671.87px);
+  width: 1329.36px;
+  height: 272.58px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+}
+.groupChild8 {
+  height: 0.45%;
+  width: 94.8%;
+  top: 19.93%;
+  right: 3.05%;
+  bottom: 79.62%;
+  left: 2.15%;
+  border-top: 1px solid var(--color-gainsboro);
+}
+.groupChild8,
+.groupChild9,
+.serachOnCardChild {
+  position: absolute;
+  box-sizing: border-box;
+}
+.groupChild9 {
+  height: 0.45%;
+  width: 95.2%;
+  top: 94.45%;
+  right: 2.97%;
+  bottom: 5.11%;
+  left: 1.83%;
+  border-top: 1px solid var(--color-gainsboro);
+}
+.serachOnCardChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+}
+.search {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 72px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  height: calc(100% - 8px);
+  top: 4px;
+  bottom: 4px;
+  left: 8px;
+  max-height: 100%;
+  width: 24px;
+}
+.serachOnCard {
+  position: absolute;
+  top: calc(50% - 115.5px);
+  right: 135px;
+  width: 220px;
+  height: 32px;
+  color: var(--color-silver);
+}
+.filters {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 12px;
+  line-height: 20px;
+}
+.filterListFill0Wght400GradIcon,
+.filterbutton {
+  position: absolute;
+  top: calc(50% - 5.29px);
+  right: 9.56px;
+  width: 15.88px;
+  height: 10.58px;
+}
+.filterbutton {
+  top: calc(50% - 115.5px);
+  right: 41.01px;
+  width: 84.63px;
+  height: 32px;
+  color: var(--color-silver);
+}
+.moreVertButtonLp {
+  position: absolute;
+  top: 21px;
+  right: 23.87px;
+  width: 4.8px;
+  height: 32px;
+}
+.colorIcon10 {
+  position: absolute;
+  top: 123.29px;
+  left: calc(50% - 654.75px);
+  width: 18px;
+  height: 18px;
+}
+.polygonIcon {
+  position: absolute;
+  top: calc(50% - 95.71px);
+  right: 1316.74px;
+  width: 12px;
+  height: 7px;
+}
+.path500Parent {
+  position: absolute;
+  top: 2072px;
+  left: 142px;
+  width: 1397px;
+  height: 449px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

@@ -1,0 +1,1079 @@
+.complianceOfficerDashboardChild,
+.complianceOfficerDashboardInner,
+.complianceOfficerDashboardItem,
+.lineDiv {
+  position: absolute;
+  top: 1102.02px;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardInner,
+.complianceOfficerDashboardItem,
+.lineDiv {
+  top: 1777.17px;
+}
+.complianceOfficerDashboardInner,
+.lineDiv {
+  top: 1184.14px;
+}
+.lineDiv {
+  top: 1859.29px;
+}
+.complianceOfficerDashboardChild1,
+.complianceOfficerDashboardChild2,
+.complianceOfficerDashboardChild3,
+.complianceOfficerDashboardChild4 {
+  position: absolute;
+  top: 1266.25px;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild2,
+.complianceOfficerDashboardChild3,
+.complianceOfficerDashboardChild4 {
+  top: 1941.4px;
+}
+.complianceOfficerDashboardChild3,
+.complianceOfficerDashboardChild4 {
+  top: 1348.37px;
+}
+.complianceOfficerDashboardChild4 {
+  top: 2023.51px;
+}
+.complianceOfficerDashboardChild5 {
+  top: 1430.48px;
+}
+.complianceOfficerDashboardChild5,
+.complianceOfficerDashboardChild6,
+.complianceOfficerDashboardChild7 {
+  position: absolute;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild6 {
+  bottom: 480.37px;
+}
+.complianceOfficerDashboardChild7 {
+  top: 1512.59px;
+}
+.complianceOfficerDashboardChild8 {
+  bottom: 398.26px;
+}
+.complianceOfficerDashboardChild10,
+.complianceOfficerDashboardChild8,
+.complianceOfficerDashboardChild9 {
+  position: absolute;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild9 {
+  top: 1594.71px;
+}
+.complianceOfficerDashboardChild10 {
+  bottom: 316.14px;
+}
+.approved,
+.rejected {
+  position: absolute;
+  top: 1037.97px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+  opacity: 0.5;
+}
+.rejected {
+  top: 1709.71px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.labelcontent {
+  position: absolute;
+  top: 2.89px;
+  left: calc(50% - 30.38px);
+  text-transform: capitalize;
+}
+.label {
+  position: absolute;
+  top: calc(50% - 10.83px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 146.24px;
+  height: 24.78px;
+}
+.smithPartnership {
+  position: absolute;
+  top: calc(50% - 9.66px);
+  right: -1px;
+  line-height: 18px;
+  display: inline-block;
+  width: 193px;
+}
+.avatarIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  max-height: 100%;
+  width: 30px;
+}
+.iconAwesomeSuitcase {
+  position: absolute;
+  top: calc(50% - 6.92px);
+  left: 6.73px;
+  width: 16.54px;
+  height: 14.47px;
+}
+.smithPartnershipParent {
+  position: absolute;
+  top: calc(50% - 15.11px);
+  left: 17.54px;
+  width: 233.04px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.rectangleParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.nexusHealthEquity,
+.partnership {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 399px);
+  line-height: 18px;
+  display: inline-block;
+  width: 179px;
+}
+.nexusHealthEquity {
+  left: calc(50% - 115px);
+  width: 231px;
+}
+.b,
+.groupParent {
+  position: absolute;
+}
+.b {
+  top: calc(50% - 8px);
+  left: calc(50% + 185px);
+  line-height: 18px;
+  display: inline-block;
+  width: 132px;
+}
+.groupParent {
+  top: 1119.08px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.labelcontent1 {
+  position: absolute;
+  top: 2.89px;
+  left: calc(50% - 26.38px);
+  text-transform: capitalize;
+}
+.label1 {
+  position: absolute;
+  top: calc(50% - 10.83px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red);
+  width: 146.24px;
+  height: 24.78px;
+}
+.groupContainer {
+  position: absolute;
+  top: 1794.23px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.smithFoundationParent {
+  position: absolute;
+  top: calc(50% - 15.23px);
+  left: 17.54px;
+  width: 233.04px;
+  height: 30px;
+}
+.label2 {
+  position: absolute;
+  top: calc(50% - 9.62px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 146.24px;
+  height: 24.78px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.rectangleContainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupDiv {
+  position: absolute;
+  top: 1201.19px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.label3 {
+  position: absolute;
+  top: calc(50% - 12.62px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red);
+  width: 146.24px;
+  height: 24.78px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.avatarIcon4,
+.groupParent1 {
+  position: absolute;
+  top: 1876.34px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.avatarIcon4 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 30px;
+}
+.iconAwesomeBuilding {
+  position: absolute;
+  height: calc(100% - 13.87px);
+  top: 7.41px;
+  bottom: 6.47px;
+  left: 7.95px;
+  max-height: 100%;
+  width: 14.11px;
+}
+.smithGovtAgencyParent {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: 16.54px;
+  width: 233.04px;
+  height: 30px;
+}
+.label4 {
+  position: absolute;
+  top: calc(50% - 12.39px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 146.24px;
+  height: 24.78px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.groupParent2 {
+  position: absolute;
+  top: 1283.31px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.label5 {
+  position: absolute;
+  top: calc(50% - 12.39px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red);
+  width: 146.24px;
+  height: 24.78px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.groupParent3,
+.groupParent4 {
+  position: absolute;
+  top: 1958.46px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.groupParent4 {
+  top: 1365.42px;
+}
+.groupParent5 {
+  top: 2040.57px;
+}
+.groupParent5,
+.groupParent6,
+.groupParent7 {
+  position: absolute;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.groupParent6 {
+  top: 1447.54px;
+}
+.groupParent7 {
+  bottom: 415.32px;
+}
+.smithEquityFundParent {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: 17.54px;
+  width: 233.04px;
+  height: 30px;
+}
+.groupParent8,
+.groupParent9 {
+  position: absolute;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.groupParent8 {
+  top: 1529.65px;
+}
+.groupParent9 {
+  bottom: 333.2px;
+}
+.complianceOfficerDashboardChild11,
+.complianceOfficerDashboardChild12 {
+  position: absolute;
+  top: 259.94px;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild12 {
+  top: 342.06px;
+}
+.complianceOfficerDashboardChild13,
+.complianceOfficerDashboardChild14,
+.complianceOfficerDashboardChild15,
+.complianceOfficerDashboardChild16 {
+  position: absolute;
+  top: 424.17px;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild14,
+.complianceOfficerDashboardChild15,
+.complianceOfficerDashboardChild16 {
+  top: 506.28px;
+}
+.complianceOfficerDashboardChild15,
+.complianceOfficerDashboardChild16 {
+  top: 588.4px;
+}
+.complianceOfficerDashboardChild16 {
+  top: 670.51px;
+}
+.complianceOfficerDashboardChild17,
+.complianceOfficerDashboardChild18,
+.complianceOfficerDashboardChild19,
+.complianceOfficerDashboardChild20 {
+  position: absolute;
+  top: 752.63px;
+  left: 141px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1377.5px;
+  height: 2px;
+}
+.complianceOfficerDashboardChild18,
+.complianceOfficerDashboardChild19,
+.complianceOfficerDashboardChild20 {
+  top: 834.74px;
+}
+.complianceOfficerDashboardChild19,
+.complianceOfficerDashboardChild20 {
+  top: 916.85px;
+}
+.complianceOfficerDashboardChild20 {
+  top: 998.97px;
+}
+.name,
+.subscriptionStatus {
+  position: absolute;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.subscriptionStatus {
+  top: calc(50% - 7.8px);
+  right: 11px;
+  width: 141px;
+}
+.name {
+  top: calc(50% - 8.2px);
+  left: 0;
+  width: 41px;
+}
+.groupChild9,
+.polygonIcon {
+  position: absolute;
+  top: calc(50% - 4.2px);
+  width: 12px;
+  height: 7px;
+}
+.polygonIcon {
+  left: 42px;
+}
+.groupChild9 {
+  right: 0;
+}
+.subscriptionStatusParent {
+  position: absolute;
+  top: 236px;
+  left: 157px;
+  width: 1241px;
+  height: 16.41px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.welcomeBackVenture {
+  position: absolute;
+  top: 96px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  color: var(--color-royalblue);
+}
+.complianceOfficerDashboard1,
+.newInvestorKycaml {
+  position: absolute;
+  top: 113px;
+  left: 142px;
+  font-size: var(--font-size-17xl);
+  line-height: 48px;
+}
+.newInvestorKycaml {
+  top: 199px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.amount {
+  position: absolute;
+  width: calc(100% - 18px);
+  top: calc(50% - 8px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.groupChild10 {
+  position: absolute;
+  top: calc(50% - 4.41px);
+  right: 0;
+  width: 12px;
+  height: 7px;
+}
+.amountParent {
+  position: absolute;
+  top: 236px;
+  left: 1020px;
+  width: 75px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.fundName {
+  position: absolute;
+  width: calc(100% - 14px);
+  top: calc(50% - 8px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.fundNameParent {
+  position: absolute;
+  top: 236px;
+  left: 725px;
+  width: 90px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.type {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 33px;
+}
+.typeParent {
+  position: absolute;
+  top: 236px;
+  left: 441px;
+  width: 51px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.thomasSmith {
+  position: absolute;
+  top: calc(50% - 10.71px);
+  left: 57.58px;
+  line-height: 18px;
+  display: inline-block;
+  width: 193px;
+}
+.labelcontent12 {
+  position: absolute;
+  top: 2.89px;
+  left: calc(50% - 49.38px);
+  text-transform: capitalize;
+}
+.label12 {
+  position: absolute;
+  top: calc(50% - 10.83px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 146.24px;
+  height: 24.78px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.avatarIcon12 {
+  position: absolute;
+  top: calc(50% - 16.05px);
+  left: 16.54px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.groupParent10 {
+  position: absolute;
+  top: 277px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+  cursor: pointer;
+}
+.labelcontent13 {
+  position: absolute;
+  top: 2.89px;
+  left: calc(50% - 25.38px);
+  text-transform: capitalize;
+}
+.label13 {
+  position: absolute;
+  top: calc(50% - 10.83px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 146.24px;
+  height: 24.78px;
+}
+.ingomaLlcParent {
+  position: absolute;
+  top: calc(50% - 15.05px);
+  left: 16.54px;
+  width: 233.04px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.rectangleParent11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-royalblue);
+}
+.groupParent11 {
+  position: absolute;
+  top: 359.11px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.label14 {
+  position: absolute;
+  top: calc(50% - 10.83px);
+  right: 144.18px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 146.24px;
+  height: 24.78px;
+}
+.smithTrustParent {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: 17.54px;
+  width: 233.04px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.rectangleParent12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+}
+.groupParent12,
+.groupParent13 {
+  position: absolute;
+  top: 441.23px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.groupParent13 {
+  top: 523.34px;
+}
+.smithFoundationContainer {
+  position: absolute;
+  top: calc(50% - 15.23px);
+  left: 17.54px;
+  width: 233.04px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.groupParent14 {
+  position: absolute;
+  top: 605.46px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.smithGovtAgencyContainer {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: 16.54px;
+  width: 233.04px;
+  height: 30px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.groupParent15,
+.groupParent16,
+.groupParent17,
+.groupParent18 {
+  position: absolute;
+  top: 687.57px;
+  left: 142px;
+  width: 1396px;
+  height: 50px;
+}
+.groupParent16,
+.groupParent17,
+.groupParent18 {
+  top: 769.68px;
+}
+.groupParent17,
+.groupParent18 {
+  top: 851.8px;
+}
+.groupParent18 {
+  top: 933.91px;
+}
+.amountGroup,
+.fundNameGroup,
+.typeGroup {
+  position: absolute;
+  height: calc(100% - 0.41px);
+  top: 0;
+  bottom: 0.41px;
+  left: calc(50% + 242.5px);
+  width: 75px;
+}
+.fundNameGroup,
+.typeGroup {
+  left: calc(50% - 52.5px);
+  width: 90px;
+}
+.typeGroup {
+  left: calc(50% - 336.5px);
+  width: 51px;
+}
+.groupParent19,
+.groupParent20 {
+  position: absolute;
+  top: 1074.97px;
+  left: 157px;
+  width: 1241px;
+  height: 16.41px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.groupParent20 {
+  top: 1746.71px;
+}
+.buttonNormalChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.loadMore {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 47.5px);
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonNormal,
+.buttonNormal1 {
+  position: absolute;
+  left: 708px;
+  width: 185px;
+  height: 48px;
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.buttonNormal {
+  top: 1612px;
+}
+.buttonNormal1 {
+  bottom: 253px;
+}
+.component2093 {
+  position: absolute;
+  top: 848px;
+  right: 4px;
+  width: 74px;
+  height: 74px;
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.storefrontFill0Wght400Grad0Icon {
+  position: absolute;
+  top: 20px;
+  right: 28.83px;
+  width: 22.33px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.leftNavButtonInner {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.leftNavButtonChild3 {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.homeFill1Wght400Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10.19px);
+  left: calc(50% - 9.05px);
+  width: 18.16px;
+  height: 20px;
+}
+.leftNavButtonChild4 {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 6px;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.complianceOfficerDashboard {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2588px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

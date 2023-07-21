@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta Regular.otf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta-Light.woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Cresta";
+  src: url("/public/Cresta Bold.otf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Azo Sans";
+  src: url("/public/AzoSans-Regular.woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Azo Sans";
+  src: url("/public/AzoSans-Bold.woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Cresta-Medium";
+  src: url("/public/Cresta-Medium.woff");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-cresta: Cresta;
+  --font-cresta-medium: Cresta-Medium;
+  --font-azo-sans: "Azo Sans";
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-5xs: 8px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-17xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-aliceblue: #eaf0f7;
+  --color-white: #fff;
+  --color-gray-100: #808080;
+  --color-gray-200: #0a1a27;
+  --color-gray-300: #131523;
+  --color-gray-400: rgba(0, 0, 0, 0.12);
+  --color-gray-500: rgba(0, 0, 0, 0.87);
+  --color-gray-600: rgba(255, 255, 255, 0.5);
+  --color-gray-700: rgba(10, 26, 39, 0.11);
+  --color-deepskyblue: #38b5e8;
+  --color-gainsboro: #d2dae0;
+  --color-royalblue: #1f61c5;
+  --color-lightgray: #c0cdd9;
+  --color-silver: #b7b7b7;
+  --color-lightsteelblue: #b0c1d2;
+  --color-lightslategray: #7e84a3;
+  --color-red: #d80000;
+  --color-limegreen: #2bba00;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-81xl: 100px;
+  --br-xl: 20px;
+  --br-181xl: 200px;
+}

@@ -1,0 +1,757 @@
+.path501Icon {
+  position: absolute;
+  height: 101.94%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -1.94%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 125.92px);
+  right: 34px;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  background-color: var(--color-aliceblue);
+  width: 330px;
+  height: 41px;
+}
+.nexusHealthEquity {
+  position: absolute;
+  top: 80px;
+  left: 187px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.maskGroup38 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: calc(50% - 27px);
+  right: 13px;
+  left: 13px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 54px;
+  object-fit: cover;
+}
+.maskGroup38Wrapper {
+  position: absolute;
+  top: 83px;
+  left: 23px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 149px;
+  height: 92px;
+}
+.path297Icon {
+  position: absolute;
+  width: 100%;
+  right: 0.5px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.label {
+  position: absolute;
+  bottom: 84.88px;
+  left: 22.86px;
+  width: 330px;
+  height: 58.81px;
+}
+.accountHolderName {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+  text-transform: capitalize;
+}
+.thomaSmith {
+  position: absolute;
+  bottom: 6.81px;
+  left: 6.08px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.label1 {
+  position: absolute;
+  top: calc(50% + 83.81px);
+  left: calc(50% - 165px);
+  width: 330px;
+  height: 58.81px;
+}
+.accountNo {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+}
+.label2,
+.label3 {
+  top: calc(50% + 83.81px);
+}
+.label2 {
+  position: absolute;
+  right: 34px;
+  width: 330px;
+  height: 58.81px;
+}
+.label3 {
+  left: 22.4px;
+}
+.label3,
+.label4,
+.label5,
+.label6,
+.label7 {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.label4 {
+  top: calc(50% + 241.48px);
+  left: 22.86px;
+}
+.label5,
+.label6,
+.label7 {
+  top: calc(50% + 161.62px);
+}
+.label5 {
+  left: 22.86px;
+}
+.label6,
+.label7 {
+  left: calc(50% - 165px);
+}
+.label7 {
+  top: calc(50% + 241.48px);
+}
+.boundary {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.colorIcon {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 5px);
+  width: 10px;
+  height: 5px;
+}
+.iconNavigationArrowDropDow {
+  position: absolute;
+  top: calc(50% + 0.6px);
+  right: 0;
+  width: 24px;
+  height: 24px;
+}
+.label9,
+.labelParent {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.labelParent {
+  bottom: 84.88px;
+  left: calc(50% - 165px);
+}
+.label9 {
+  top: calc(50% + 241.48px);
+  right: 34px;
+}
+.sortCoderoutingNumber {
+  margin: 0;
+}
+.sortCoderoutingNumberContainer {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+  line-height: 25px;
+}
+.label10 {
+  position: absolute;
+  top: calc(50% + 163.67px);
+  right: 34px;
+  width: 330px;
+  height: 58.81px;
+}
+.groupItem {
+  position: absolute;
+  height: 11.64%;
+  width: 46.99%;
+  top: 8.95%;
+  right: 2.01%;
+  bottom: 79.41%;
+  left: 51%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.b,
+.subscriptionAmount {
+  position: absolute;
+  color: var(--color-gray-200);
+}
+.b {
+  top: 14.55%;
+  left: 52.08%;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-azo-sans);
+}
+.subscriptionAmount {
+  top: 10.56%;
+  left: 51.72%;
+  font-size: var(--font-size-sm);
+}
+.labelcontent {
+  position: absolute;
+  top: 1.92px;
+  left: calc(50% - 90px);
+}
+.editSaveButtonChild,
+.label11 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.label11 {
+  top: 24px;
+  left: 22.4px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-gray-100);
+  width: 278.85px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.editSaveButtonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-700);
+}
+.edit {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 39.5px);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.editFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 16px);
+  top: 8px;
+  bottom: 8px;
+  left: calc(50% + 18.5px);
+  max-height: 100%;
+  width: 20px;
+}
+.editSaveButton {
+  position: absolute;
+  top: 24px;
+  right: 38px;
+  width: 115px;
+  height: 36px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.thomasSmith {
+  position: absolute;
+  top: 4.63px;
+  right: -1px;
+  line-height: 18px;
+  display: inline-block;
+  width: 334px;
+}
+.avatarIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  max-height: 100%;
+  width: 60px;
+  object-fit: cover;
+}
+.individualInvestor {
+  position: absolute;
+  bottom: 1.63px;
+  left: calc(50% - 131.45px);
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  display: inline-block;
+  width: 179px;
+}
+.thomasSmithParent {
+  position: absolute;
+  top: calc(50% - 228.92px);
+  left: 22.4px;
+  width: 402.1px;
+  height: 60px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.label12,
+.label13 {
+  position: absolute;
+  top: calc(50% - 143.87px);
+  left: 22.4px;
+  width: 330px;
+  height: 58.81px;
+}
+.label13 {
+  top: calc(50% - 66.06px);
+}
+.label14 {
+  top: calc(50% - 143.87px);
+  left: calc(50% - 165px);
+}
+.label14,
+.label15,
+.label16 {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.label15 {
+  top: calc(50% - 65.06px);
+  left: calc(50% - 165px);
+}
+.label16 {
+  right: 34px;
+  bottom: 82.82px;
+}
+.subscriptionStatus {
+  position: absolute;
+  top: -1px;
+  left: 6.08px;
+}
+.labelDropdown,
+.labelDropdownChild {
+  position: absolute;
+  top: calc(50% + 12.6px);
+  right: 5px;
+  width: 12px;
+  height: 7px;
+}
+.labelDropdown {
+  top: calc(50% - 142.87px);
+  right: 33.6px;
+  width: 330px;
+  height: 57.81px;
+}
+.bankingInformation {
+  position: absolute;
+  top: calc(50% + 45.81px);
+  left: 20px;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 179px;
+}
+.path501Parent,
+.welcomeBackVenture {
+  position: absolute;
+  left: 142px;
+  color: var(--color-royalblue);
+}
+.path501Parent {
+  top: 283px;
+  width: 1396px;
+  height: 927.84px;
+  font-size: var(--font-size-xs);
+}
+.welcomeBackVenture {
+  top: 96px;
+}
+.complianceOfficerDashboard1 {
+  position: absolute;
+  top: 113px;
+  left: 142px;
+  font-size: var(--font-size-17xl);
+  line-height: 48px;
+}
+.backArrowButton {
+  position: absolute;
+  top: 103px;
+  left: 106px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  cursor: pointer;
+}
+.newInvestorKycaml {
+  position: absolute;
+  top: 187px;
+  left: 142px;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.path502Icon {
+  position: absolute;
+  height: 103.58%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -3.58%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.notesAndComments {
+  position: absolute;
+  top: 0;
+  left: 0.01%;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+}
+.notesAndCommentsWrapper {
+  position: absolute;
+  width: calc(100% - 65px);
+  top: 24.85px;
+  right: 34px;
+  left: 31px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aliceblue);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 321.74px;
+}
+.path502Parent {
+  position: absolute;
+  bottom: 176.05px;
+  left: 142px;
+  width: 1396px;
+  height: 502.79px;
+}
+.component2096 {
+  position: absolute;
+  top: 848px;
+  right: 4px;
+  width: 74px;
+  height: 74px;
+}
+.ndaForNexus {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 118.67px;
+}
+.descriptionFill0Wght400GradIcon,
+.groupInner {
+  position: absolute;
+  height: calc(100% - 29.58px);
+  top: 14.79px;
+  bottom: 14.79px;
+  left: 68.99px;
+  max-height: 100%;
+  width: 19.2px;
+}
+.groupInner {
+  height: calc(100% + 1px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+}
+.ndaForNexusHealthEquityFuParent {
+  position: absolute;
+  bottom: 246.92px;
+  left: 167.13px;
+  width: 1327.75px;
+  height: 53.58px;
+  font-size: var(--font-size-sm);
+}
+.moreVertButtonLp {
+  position: absolute;
+  top: 1732px;
+  right: 97.21px;
+  width: 4.8px;
+  height: 32px;
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.storefrontFill0Wght400Grad0Icon {
+  position: absolute;
+  top: 20px;
+  right: 28.83px;
+  width: 22.33px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.leftNavButtonInner {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+}
+.div6 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.rectangleDiv {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.homeFill1Wght400Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10.19px);
+  left: calc(50% - 9.05px);
+  width: 18.16px;
+  height: 20px;
+}
+.leftNavButtonChild2 {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 6px;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.domainFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  width: calc(100% - 57.78px);
+  right: 28.76px;
+  bottom: 20.19px;
+  left: 29.01px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton8 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 443px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: -0.5px;
+  width: 80.5px;
+  height: 960px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.complianceOfficerDashboard {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2378px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}

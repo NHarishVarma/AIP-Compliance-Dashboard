@@ -1,0 +1,379 @@
+.path501Icon {
+  position: absolute;
+  height: 101.94%;
+  width: 101.29%;
+  top: 0;
+  right: -1.29%;
+  bottom: -1.94%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nexusHealthEquity {
+  position: absolute;
+  top: 80px;
+  left: 187px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.maskGroup38 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: calc(50% - 27px);
+  right: 13px;
+  left: 13px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 54px;
+  object-fit: cover;
+}
+.maskGroup38Wrapper {
+  position: absolute;
+  top: 83px;
+  left: 23px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 149px;
+  height: 92px;
+}
+.path297Icon {
+  position: absolute;
+  width: 100%;
+  right: 0.5px;
+  bottom: -0.5px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.label {
+  position: absolute;
+  bottom: 84.88px;
+  left: 22.86px;
+  width: 330px;
+  height: 58.81px;
+}
+.accountHolderName {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+  text-transform: capitalize;
+}
+.thomaSmith {
+  position: absolute;
+  bottom: 6.81px;
+  left: 6.08px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.label1 {
+  position: absolute;
+  top: calc(50% + 83.81px);
+  left: calc(50% - 165px);
+  width: 330px;
+  height: 58.81px;
+}
+.accountNo {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+}
+.label2,
+.label3 {
+  top: calc(50% + 83.81px);
+}
+.label2 {
+  position: absolute;
+  right: 34px;
+  width: 330px;
+  height: 58.81px;
+}
+.label3 {
+  left: 22.4px;
+}
+.label3,
+.label4,
+.label5,
+.label6,
+.label7 {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.label4 {
+  top: calc(50% + 241.48px);
+  left: 22.86px;
+}
+.label5,
+.label6,
+.label7 {
+  top: calc(50% + 161.62px);
+}
+.label5 {
+  left: 22.86px;
+}
+.label6,
+.label7 {
+  left: calc(50% - 165px);
+}
+.label7 {
+  top: calc(50% + 241.48px);
+}
+.boundary {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.colorIcon {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 5px);
+  width: 10px;
+  height: 5px;
+}
+.iconNavigationArrowDropDow {
+  position: absolute;
+  top: calc(50% + 0.6px);
+  right: 0;
+  width: 24px;
+  height: 24px;
+}
+.label9,
+.labelParent {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.labelParent {
+  bottom: 84.88px;
+  left: calc(50% - 165px);
+}
+.label9 {
+  top: calc(50% + 241.48px);
+  right: 34px;
+}
+.sortCoderoutingNumber {
+  margin: 0;
+}
+.sortCoderoutingNumberContainer {
+  position: absolute;
+  top: 0;
+  left: 6.08px;
+  line-height: 25px;
+}
+.label10 {
+  position: absolute;
+  top: calc(50% + 163.67px);
+  right: 34px;
+  width: 330px;
+  height: 58.81px;
+}
+.groupChild {
+  position: absolute;
+  height: 11.64%;
+  width: 46.99%;
+  top: 8.95%;
+  right: 2.01%;
+  bottom: 79.41%;
+  left: 51%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.b,
+.subscriptionAmount {
+  position: absolute;
+  color: var(--color-gray-200);
+}
+.b {
+  top: 14.55%;
+  left: 52.08%;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-azo-sans);
+}
+.subscriptionAmount {
+  top: 10.56%;
+  left: 51.72%;
+  font-size: var(--font-size-sm);
+}
+.labelcontent {
+  position: absolute;
+  top: 1.92px;
+  left: calc(50% - 90px);
+}
+.editSaveButtonChild,
+.label11 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.label11 {
+  top: 24px;
+  left: 22.4px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-gray-100);
+  width: 278.85px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.editSaveButtonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-700);
+}
+.edit {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 39.5px);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.editFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 16px);
+  top: 8px;
+  bottom: 8px;
+  left: calc(50% + 18.5px);
+  max-height: 100%;
+  width: 20px;
+}
+.editSaveButton {
+  position: absolute;
+  top: 24px;
+  right: 38px;
+  width: 115px;
+  height: 36px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.thomasSmith {
+  position: absolute;
+  top: 4.63px;
+  right: -1px;
+  line-height: 18px;
+  display: inline-block;
+  width: 334px;
+}
+.avatarIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  max-height: 100%;
+  width: 60px;
+  object-fit: cover;
+}
+.individualInvestor {
+  position: absolute;
+  bottom: 1.63px;
+  left: calc(50% - 131.45px);
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  display: inline-block;
+  width: 179px;
+}
+.thomasSmithParent {
+  position: absolute;
+  top: calc(50% - 228.92px);
+  left: 22.4px;
+  width: 402.1px;
+  height: 60px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.label12,
+.label13 {
+  position: absolute;
+  top: calc(50% - 143.87px);
+  left: 22.4px;
+  width: 330px;
+  height: 58.81px;
+}
+.label13 {
+  top: calc(50% - 66.06px);
+}
+.label14 {
+  top: calc(50% - 143.87px);
+  left: calc(50% - 165px);
+}
+.label14,
+.label15,
+.label16 {
+  position: absolute;
+  width: 330px;
+  height: 58.81px;
+}
+.label15 {
+  top: calc(50% - 65.06px);
+  left: calc(50% - 165px);
+}
+.label16 {
+  right: 34px;
+  bottom: 82.82px;
+}
+.subscriptionStatus {
+  position: absolute;
+  top: calc(50% - 143.87px);
+  left: calc(50% + 340.48px);
+}
+.path297Icon16 {
+  position: absolute;
+  top: calc(50% - 85.56px);
+  right: 34.1px;
+  width: 330px;
+  height: 1px;
+}
+.pendingReview {
+  position: absolute;
+  top: calc(50% - 112.87px);
+  left: calc(50% + 340.48px);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.groupItem {
+  position: absolute;
+  top: calc(50% - 101.37px);
+  right: 38.6px;
+  width: 12px;
+  height: 7px;
+}
+.bankingInformation {
+  position: absolute;
+  top: calc(50% + 45.81px);
+  left: 20px;
+  font-size: var(--font-size-sm);
+  line-height: 18px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 179px;
+}
+.path501Parent {
+  position: absolute;
+  top: 283px;
+  left: 142px;
+  width: 1396px;
+  height: 927.84px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue);
+  font-family: var(--font-cresta);
+}
